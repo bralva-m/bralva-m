@@ -55,8 +55,8 @@
 ## 📊 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=martomugo&show_icons=true&theme=tokyonight" alt="martomugo" height="180px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=martomugo&layout=compact&theme=tokyonight" alt="martomugo" height="180px"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=bralva-m&show_icons=true&theme=tokyonight" alt="MartinMugo" height="180px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bralva-m&layout=compact&theme=tokyonight" alt="martinmugo" height="180px"/>
 </p>
 
 ---
@@ -65,8 +65,8 @@
 
 <p align="center">
   <a href="https://linkedin.com/in/martin-mugo-094905149/"target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
-  <a href="https://twitter.com/your-twitter" target="_blank"><img src="https://skillicons.dev/icons?i=twitter" /></a>
-  <a href="mailto:your@email.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
+  <a href="(https://x.com/MartinMugo123)" target="_blank"><img src="https://skillicons.dev/icons?i=twitter" /></a>
+  <a href="mailto:bralva.co15@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
 </p>
 
 ---
