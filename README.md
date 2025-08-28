@@ -64,7 +64,7 @@
 ## 🌐 Connect With Me  
 
 <p align="center">
-  <a href="[https://linkedin.com/in/martin-mugo-094905149/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
+  <a href="https://linkedin.com/in/martin-mugo-094905149/"target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
   <a href="https://twitter.com/your-twitter" target="_blank"><img src="https://skillicons.dev/icons?i=twitter" /></a>
   <a href="mailto:your@email.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
 </p>
