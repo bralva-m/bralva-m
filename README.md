@@ -65,7 +65,7 @@
 
 <p align="center">
   <a href="https://linkedin.com/in/martin-mugo-094905149/"target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
-  <a href="(https://x.com/MartinMugo123)" target="_blank"><img src="https://skillicons.dev/icons?i=twitter" /></a>
+   <a href="https://x.com/MartinMugo123"target="_blank"><img src="https://skillicons.dev/icons?i=twitter" /></a>
   <a href="mailto:bralva.co15@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
 </p>
 
